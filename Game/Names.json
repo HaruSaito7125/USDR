@@ -1,0 +1,625 @@
+{
+  "MESTRE":{
+    "Quote":"Bem vindo, mestre.",
+    "Quote Color":"RAINBOW",
+    "Name Color":"RAINBOW",
+    "Sound":"Master",
+    "Type":true},
+  
+  "IUSTITI":{
+    "Name Color":"#fffb00",
+    "Sound":"Iustiti",
+    "Type":true},
+  
+  "PLACIDE":{
+    "Name Color":"#00fbff",
+    "Sound":"Placide",
+    "Type":true},
+  
+  "FLOWEY":{
+    "Quote":"EU sou o Deus desse mundo, não você.",
+    "Quote Color":"#ff0000",
+    "Sound":"Flowey"},
+  
+  "TORIEL":{
+    "Quote":"Você gostou do meu nome, minha criança?",
+    "Sound":"Toriel"},
+  
+  "FROGGIT":{
+    "Quote":"Ribbit, ribbit"},
+  
+  "WHIMSUN":{
+    "Quote":"Me desculpa..."},
+  
+  "VEGETOID":{
+    "Quote":"Tá na hora da janta!"},
+  
+  "SANS":{
+    "Quote":"Tá querendo ter um tempo ruim?",
+    "Sound":"Sans"},
+  
+  "PAPYRUS":{
+    "Quote":"AGRADEÇO A ADMIRAÇÃO, HUMANO! NYEHEHEH!!",
+    "Sound":"Papyrus"},
+  
+  "UNDYNE":{
+    "Quote":"Você mata nosso povo e ainda quer o meu nome?",
+    "Sound":"Undyne"},
+  
+  "ALPHYS":{
+    "Quote":"Ehh, não... não... esse é meu...",
+    "Sound":"Alphys"},
+  
+  "METTATON":{
+    "Quote":"AH! O SHOW NEM COMEÇOU, E VOCÊ JÁ É MEU FÃ?",
+    "Sound":"Mettaton"},
+  
+  "ASGORE":{
+    "Quote":"Você não irá tomar nossa identidade."},
+  
+  "GASTER":{
+    "Quote":"SAIA.",
+    "Font":"Undertale Wingdings",
+    "Sound":"Gaster"},
+  
+  "FRISK":{
+    "Quote":"...",
+    "Name Color":"#ffff00"},
+  
+  "CHARA":{
+    "Quote":"VOCÊ NÃO TEM ESSE CONTROLE",
+    "Quote Color":"#ff0000",
+    "Name Color":"#ff0000",
+    "Sound":"Chara"},
+  
+  "ASRIELDREEMURR":{
+    "Quote":"COLOQUE-SE NO SEU LUGAR, ESTÚPIDO!",
+    "Quote Color":"RAINBOW",
+    "Sound":"Asriel Dreemurr"},
+  
+  "OMEGAFLOWEY":{
+    "Quote":"HAHAHAHAHAHAHAHA",
+    "Quote Color":"SOULS",
+    "Sound":"Omega Flowey"},
+  
+  "PHOTOSHOPFLOWEY":{
+    "Quote":"HAHAHAHAHAHAHAHA",
+    "Quote Color":"SOULS",
+    "Sound":"Omega Flowey"},
+  
+  "METTATONNEO":{
+    "Quote":"HA! QUE DECEPCIONANTE VOCÊ, PROCURANDO SER MELHOR QUE UMA ESTRELA?",
+    "Name Color":"RAINBOW",
+    "Sound":"Mettaton NEO"},
+  
+  "MUFFET":{
+    "Quote":"Hihihi, bem-vindo a festa das aranhas~",
+    "Name Color":"#b1b7f0",
+    "Sound":"Spider Dance"},
+  
+  "ARANHA":{
+    "Quote":"Hihihi, bem-vindo a festa das aranhas~",
+    "Name Color":"#b1b7f0",
+    "Sound":"Spider Dance"},
+  
+  "ARANHAS":{
+    "Quote":"Hihihi, bem-vindo a festa das aranhas~",
+    "Name Color":"#b1b7f0",
+    "Sound":"Spider Dance"},
+  
+  "MADDUMMY":{
+    "Quote":"AAAH! SAI DA MINHA FRENTE! SAI! SAI! SAI!",
+    "Quote Color":"#ff0000",
+    "Sound":"Mad Dummy"},
+  
+  "DUMMY":{
+    "Quote":"AAAH! SAI DA MINHA FRENTE! SAI! SAI! SAI!",
+    "Quote Color":"#ff0000",
+    "Sound":"Mad Dummy"},
+  
+  "JERRY":{
+    "Quote":"Ninguém gosta do Jerry"},
+  
+  "DOGAMY":{
+    "Quote":"Identicheire-se!"},
+  
+  "DOGARESSA":{
+    "Quote":"Identicheire-se!"},
+  
+  "DOGAMYEDOGARESSA":{
+    "Quote":"Identicheire-se!"},
+  
+  "MONSTERKID":{
+    "Quote":"Tipo, mano, esse nome é meu, pego?"},
+  
+  "UNDYNETHEUNDYING":{
+    "Quote":"Não OUSE tentar tirar a esperança do nosso povo.",
+    "Name Color":"#6299c1",
+    "Sound":"Undyne the Undying"},
+  
+  "GERSON":{
+    "Quote":"Você vai precisar ter mais experiência que o vovô aqui pra ter esse nome."},
+  
+  "GERSONBOOM":{
+    "Quote":"Você vai precisar ter mais experiência que o vovô aqui pra ter esse nome."},
+  
+  "ASRIEL":{
+    "Quote":"Você... veio... me salvar...?",
+    "Name Color":"#ffc800",
+    "Sound":"Asriel"},
+  
+  "NAPSTABLOOK":{
+    "Quote":"Ah... desculpa o incomodo, esse é o meu... eu vou... indo...",
+    "Sound":"Napstablook"},
+  
+  "TEMMIE":{
+    "Quote":"h01!!! Imm tEm!! O3u",
+    "Sound":"Temmie"},
+  
+  "TOBY":{
+    "Quote":"Cachorro!!",
+    "Sound":"TobyFox"},
+  
+  "TOBYFOX":{
+    "Quote":"Cachorro!!",
+    "Sound":"TobyFox"},
+  
+  "ESQUELETO":{
+    "Quote":"Tá osso fazer tudo é?",
+    "Sound":"Skeleton"},
+  
+  "SANESS":{
+    "Quote":"U WANA HAVE A BAD TOM?!!??",
+    "Quote Color":"RAINBOW",
+    "Name Color":"SOULS",
+    "Sound":"Saness"},
+  
+  "ASSASSINO":{
+    "Quote":"Meio direto ao ponto, não?"},
+  
+  "GENOCIDA":{
+    "Quote":"Meio direto ao ponto, não?"},
+  
+  "PSICOPATA":{
+    "Quote":"Meio direto ao ponto, não?"},
+  
+  "PERSEVERANÇA":{
+    "Quote":"É bom ser perseverante, mas esse não é seu nome.",
+    "Name Color":"#aa00ff"},
+  
+  "INTEGRIDADE":{
+    "Quote":"Manter-se fiel a sí mesmo é ótimo, mas esse não é seu nome.",
+    "Name Color":"#0800ff"},
+  
+  "PACIENCIA":{
+    "Quote":"Aprecio sua paciência, mas esse não é seu nome.",
+    "Name Color":"#00fbff"},
+  
+  "EMPATIA":{
+    "Quote":"Sua empatia com os outros é surpreendente, mas esse não é seu nome.",
+    "Name Color":"#00ff04"},
+  
+  "JUSTIÇA":{
+    "Quote":"É admirável o seu senso de justiça, mas esse não é seu nome.",
+    "Name Color":"#fffb00"},
+  
+  "BRAVURA":{
+    "Quote":"Ter bravura é algo difícil para muitos, mas esse não é seu nome.",
+    "Name Color":"#ff8c00"},
+  
+  "DETERMINAÇAO":{
+    "Quote":"É bom ver que você é determinado, mas esse não é seu nome.",
+    "Name Color":"#ff0000"},
+  
+  "ESPERANÇA":{
+    "Quote":"Você não tomará até isso de nós, esse não é seu nome."},
+  
+  "PINTO":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "PINTOS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "BOLA":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "BOLAS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "BUCETA":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "BUCETAS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "XERECA":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "XERECAS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "PORRA":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "PORRAS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "PENIS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "CUM":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "CUMSHOT":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "SEMEN":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "PAU":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "PAUS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "DICK":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "DICKS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "CU":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "CUS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "ASS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "ASSES":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "SEXO":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "SEXOS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "SEX":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "SEXES":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "CUMSHOTS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "SEMENS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "CUMS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "CARALHO":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "CARALHOS":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "CACETE":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "CACETES":{
+    "Quote":"Haha, que engraçado. Cresça.",
+    "Sound":"Jokey"},
+  
+  "NIGGA":{
+    "Quote":"Qual era a nessecidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "NIGGER":{
+    "Quote":"Qual era a nessecidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "HITLER":{
+    "Quote":"Qual era a necessidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "ODEIONEGRO":{
+    "Quote":"Qual era a nessecidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "ODEIOONEGRO":{
+    "Quote":"Qual era a nessecidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "ODEIOOSNEGRO":{
+    "Quote":"Qual era a nessecidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "ODEIOOSNEGROS":{
+    "Quote":"Qual era a nessecidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "ODEIONEGROS":{
+    "Quote":"Qual era a nessecidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "CHILDPORN":{
+    "Quote":"Qual era a necessidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "PORN":{
+    "Quote":"Qual era a necessidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "CP":{
+    "Quote":"Qual era a necessidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "KKK":{
+    "Quote":"Qual era a necessidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "KUKLUXKLAN":{
+    "Quote":"Qual era a necessidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "AMOHITLER":{
+    "Quote":"Qual era a necessidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "HITLERHEROI":{
+    "Quote":"Qual era a necessidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "HEROIHITLER":{
+    "Quote":"Qual era a necessidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "CELLBIT":{
+    "Quote":"Tá se achando o detetive é?"},
+  
+  "ENIGMA":{
+    "Quote":"Tá se achando o detetive é?"},
+  
+  "ENIGMAS":{
+    "Quote":"Tá se achando o detetive é?"},
+  
+  "FALLENDOWN":{
+    "Quote":"E então os humanos cairam, outra vez...",
+    "Quote Color":"#fffb00",
+    "Name Color":"#fffb00",
+    "Sound":"Fallen Down"},
+  
+  "STRONGERTHANYOU":{
+    "Quote":"Steven universe reference!!",
+    "Name Color":"RAINBOW",
+    "Sound":"Stronger Than You"},
+  
+  "MAISFORTEQUEVOCE":{
+    "Quote":"Steven universe reference!!",
+    "Name Color":"RAINBOW",
+    "Sound":"Stronger Than You"},
+  
+  "UNDERTALE":{
+    "Quote":"Olha só, mesmo depois de tudo, ainda é você.",
+    "Sound":"Undertale"},
+  
+  "SONHOSEESPERANÇAS":{
+    "Quote":"!!!",
+    "Quote Color":"RAINBOW",
+    "Name Color":"RAINBOW",
+    "Sound":"Hopes And Dreams"},
+  
+  "HOPESANDDREAMS":{
+    "Quote":"!!!",
+    "Quote Color":"RAINBOW",
+    "Name Color":"RAINBOW",
+    "Sound":"Hopes And Dreams"},
+  
+  "CHUVA":{
+    "Quote":"A nostalgia prova-se o melhor sentimento...",
+    "Sound":"Rain"},
+  
+  "CONTINUAR":{
+    "Quote":"Não desista. Você consegue, eu acredito em você...",
+    "Quote Color":"SOULS",
+    "Sound":"Continue"},
+  
+  "IJNIHS":{
+    "Quote":".oditrevni odnum oA !odniv meB",
+    "Sound":"Shinji"},
+  
+  "DORMES":{
+    "Quote":"ZZZZZZZZZZZZZ",
+    "Sound":"Dormes"},
+  
+  "AFONSO":{
+    "Quote":"...",
+    "Sound":"Afonso"},
+  
+  "DERICK":{
+    "Quote":"...",
+    "Sound":"Afonso"},
+  
+  "AFOSNO":{
+    "Quote":"...",
+    "Sound":"Afonso"},
+  
+  "VIGAS":{
+    "Quote":"*/metal pipe*/",
+    "Sound":"Metal Pipe"},
+  
+  "HARU":{
+    "Quote":"Femboy jumpscare",
+    "Sound":"Haru"},
+  
+  "HARUSAITO":{
+    "Quote":"Femboy jumpscare",
+    "Sound":"Haru"},
+  
+  "FEM":{
+    "Quote":"Femboy Jumpscare",
+    "Sound":"Haru"},
+  
+  "FEMBOY":{
+    "Quote":"Femboy Jumpscare",
+    "Sound":"Haru"},
+  
+  "GAY":{
+    "Quote":"Femboy Jumpscare",
+    "Sound":"Haru"},
+  
+  "OHITLER":{
+    "Quote":"Qual era a necessidade? Melhore.",
+    "Sound":"Jokey"},
+  
+  "CASAGRANDE":{
+    "Quote":"I put the new forgis on the jeep",
+    "Sound":"Casão"},
+  
+  "CASAO":{
+    "Quote":"I put the new forgis on the jeep",
+    "Sound":"Casão"},
+  
+  "G":{
+    "Quote":"I put the new forgis on the jeep",
+    "Sound":"Casão"},
+  
+  "METAL":{
+    "Quote":"*/metal pipe*/",
+    "Sound":"Metal Pipe"},
+  
+  "PIPE":{
+    "Quote":"*/metal pipe*/",
+    "Sound":"Metal Pipe"},
+  
+  "CANO":{
+    "Quote":"*/metal pipe*/",
+    "Sound":"Metal Pipe"},
+  
+  "CANODEMETAL":{
+    "Quote":"*/metal pipe*/",
+    "Sound":"Metal Pipe"},
+  
+  "TETO":{
+    "Quote":"teto pear",
+    "Sound":"Kasane Teto"},
+  
+  "KASANETETO":{
+    "Quote":"teto pear",
+    "Sound":"Kasane Teto"},
+  
+  "KASANE":{
+    "Quote":"teto pear",
+    "Sound":"Kasane Teto"},
+  
+  "MIKU":{
+    "Quote":"miku miku oo ee oo",
+    "Sound":"Hatsune Miku"},
+  
+  "HATSUNEMIKU":{
+    "Quote":"miku miku oo ee oo",
+    "Sound":"Hatsune Miku"},
+  
+  "HATSUNE":{
+    "Quote":"miku miku oo ee oo",
+    "Sound":"Hatsune Miku"},
+  
+  "TETOPEAR":{
+    "Quote":"teto pear",
+    "Sound":"Kasane Teto"},
+  
+  "DORUMES":{
+    "Quote":"ZZZZZZZZZZZZZ",
+    "Sound":"Dormes"},
+  
+  "SHRIMP":{
+    "Quote":"*/~shrimp~*/",
+    "Sound":"Shrimp"},
+  
+  "SHRIMPS":{
+    "Quote":"*/~shrimp~*/",
+    "Sound":"Shrimp"},
+  
+  "CAMARAO":{
+    "Quote":"*/~shrimp~*/",
+    "Sound":"Shrimp"},
+  
+  "CAMAROES":{
+    "Quote":"*/~shrimp~*/",
+    "Sound":"Shrimp"},
+  
+  "MINOS":{
+    "Quote":"PREPARE THY SELF!",
+    "Sound":"Minos Prime"},
+  
+  "MINOSPRIME":{
+    "Quote":"PREPARE THY SELF!",
+    "Sound":"Minos Prime"},
+  
+  "SISYPHUS":{
+    "Quote":"BE GONE!",
+    "Sound":"Sisyphus Prime"},
+  
+  "SISYPHUSPRIME":{
+    "Quote":"BE GONE!",
+    "Sound":"Sisyphus Prime"},
+  
+  "GABRIEL":{
+    "Quote":"MACHINE, KILL YOURSELF MACHINE",
+    "Sound":"Gabriel"},
+  
+  "MINDFLAYER":{
+    "Quote":"Puta maldita"},
+  
+  "RAFAEL":{
+    "Quote":"ain bolsonaro~",
+    "Sound":"Rafael"},
+  
+  "RAFA":{
+    "Quote":"ain bolsonaro~",
+    "Sound":"Rafael"},
+  
+  "CAFE":{
+    "Quote":"ain bolsonaro~",
+    "Sound":"Rafael"},
+  
+  "CAFEH":{
+    "Quote":"ain bolsonaro~",
+    "Sound":"Rafael"}
+}
