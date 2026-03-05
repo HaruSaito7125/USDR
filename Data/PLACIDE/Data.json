@@ -2,5 +2,9 @@
   "Room":"Ruins-001",
 
   "X":-190,
-  "Y":-10
+  "Y":-10,
+
+  "Revealed Rooms":[
+    "Ruins-001"
+  ]
 }
