@@ -3,8 +3,25 @@
   "Y":300,
 
   "Doors":{
-    
+
     "Door 1":{
+      "Entrance":{
+        "X1":400,
+        "X2":430,
+        "Y1":100,
+        "Y2":110
+      },
+      
+      "Leave At":{
+        "X":300,
+        "Y":0,
+        "Room":"Ruins-001"
+      },
+      
+      "Can Touch?":true
+    }
+    
+    "Door 2":{
       "Entrance":{
         "X1":400,
         "X2":430,
@@ -14,7 +31,8 @@
       
       "Leave At":{
         "X":500,
-        "Y":1200
+        "Y":1200,
+        "Room":"Ruins-003"
       },
       
       "Can Touch?":false
