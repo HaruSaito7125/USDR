@@ -14,7 +14,8 @@
       
       "Leave At":{
         "X":350,
-        "Y":200
+        "Y":200,
+        "Room":"Ruins-002"
       },
       
       "Can Touch?":true
