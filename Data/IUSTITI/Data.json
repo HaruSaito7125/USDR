@@ -2,5 +2,9 @@
   "Room":"Snowdin-001",
 
   "X":200,
-  "Y":100
+  "Y":100,
+
+  "Revealed Rooms":[
+    "Snowdin-001"
+  ]
 }
