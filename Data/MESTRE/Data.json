@@ -2,5 +2,11 @@
   "Room":"All",
 
   "X":0,
-  "Y":0
+  "Y":0,
+
+  "Revealed Maps":[
+    "Ruins-001",
+    "Ruins-002",
+    "Snowdin-001"
+  ]
 }
