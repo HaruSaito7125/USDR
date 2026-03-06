@@ -1,10 +1,8 @@
 {
-  "Room":"Ruins-001",
-
-  "X":-190,
-  "Y":-10,
-
-  "Revealed Rooms":[
-    "Ruins-001"
-  ]
+	"Room": "Ruins-001",
+	"X": 0,
+	"Y": 0,
+	"Revealed Rooms": [
+		"Ruins-001"
+	]
 }
