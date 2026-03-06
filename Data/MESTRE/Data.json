@@ -1,10 +1,10 @@
 {
-  "Room":"All",
-  "X":0,
-  "Y":0,
-  "Revealed Rooms":[
-    "Ruins-001",
-    "Ruins-002",
-    "Snowdin-001"
-  ]
+	"Room": "All",
+	"X": 71.3339999999999,
+	"Y": 190.2015,
+	"Revealed Rooms": [
+		"Ruins-001",
+		"Ruins-002",
+		"Snowdin-001"
+	]
 }
