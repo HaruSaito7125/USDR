@@ -1,6 +1,6 @@
 {
 	"Room": "All",
-	"X": 0,
+	"X": "bar",
 	"Y": 0,
 	"Revealed Rooms": [
 		"Ruins-001",
