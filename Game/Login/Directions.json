@@ -1,0 +1,67 @@
+{
+	"0":{
+		"up arrow":"Confirm"},
+  
+	"28":{
+		"up arrow":21,
+		"down arrow":35,
+		"right arrow":29,
+		"left arrow":27},
+  
+	"56":{
+		"down arrow":"Confirm"},
+  
+	"57":{
+		"down arrow":"Clear"},
+  
+	"58":{
+		"down arrow":"Clear"},
+  
+	"59":{
+		"down arrow":"Space"},
+  
+	"60":{
+		"down arrow":"Space"},
+  
+	"61":{
+		"down arrow":"Confirm"},
+  
+	"62":{
+		"down arrow":"Confirm"},
+  
+	"Clear":{
+		"up arrow":50,
+		"down arrow":1,
+		"right arrow":"Space",
+		"left arrow":"Confirm"},
+  
+	"Space":{
+		"up arrow":52,
+		"down arrow":3,
+		"right arrow":"Confirm",
+		"left arrow":"Clear"},
+  
+	"Confirm":{
+		"up arrow":54,
+		"down arrow":5,
+		"right arrow":"Clear",
+		"left arrow":"Space"},
+  
+	"-6":{
+		"up arrow":"Clear"},
+  
+	"-5":{
+		"up arrow":"Clear"},
+  
+	"-4":{
+		"up arrow":"Space"},
+  
+	"-3":{
+		"up arrow":"Delete"},
+  
+	"-2":{
+		"up arrow":"Confirm"},
+  
+	"-1":{
+		"up arrow":"Confirm"}
+}
