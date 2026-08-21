@@ -1,67 +1,67 @@
 {
 	"0":{
-		"up arrow":"Confirm"},
+		"Up":"Confirm"},
   
 	"28":{
-		"up arrow":21,
-		"down arrow":35,
-		"right arrow":29,
-		"left arrow":27},
+		"Up":21,
+		"Down":35,
+		"Right":29,
+		"Left":27},
   
 	"56":{
-		"down arrow":"Confirm"},
+		"Down":"Confirm"},
   
 	"57":{
-		"down arrow":"Clear"},
+		"Down":"Clear"},
   
 	"58":{
-		"down arrow":"Clear"},
+		"Down":"Clear"},
   
 	"59":{
-		"down arrow":"Space"},
+		"Down":"Space"},
   
 	"60":{
-		"down arrow":"Space"},
+		"Down":"Space"},
   
 	"61":{
-		"down arrow":"Confirm"},
+		"Down":"Confirm"},
   
 	"62":{
-		"down arrow":"Confirm"},
+		"Down":"Confirm"},
   
 	"Clear":{
-		"up arrow":50,
-		"down arrow":1,
-		"right arrow":"Space",
-		"left arrow":"Confirm"},
+		"Up":50,
+		"Down":1,
+		"Right":"Space",
+		"Left":"Confirm"},
   
 	"Space":{
-		"up arrow":52,
-		"down arrow":3,
-		"right arrow":"Confirm",
-		"left arrow":"Clear"},
+		"Up":52,
+		"Down":3,
+		"Right":"Confirm",
+		"Left":"Clear"},
   
 	"Confirm":{
-		"up arrow":54,
-		"down arrow":5,
-		"right arrow":"Clear",
-		"left arrow":"Space"},
+		"Up":54,
+		"Down":5,
+		"Right":"Clear",
+		"Left":"Space"},
   
 	"-6":{
-		"up arrow":"Clear"},
+		"Up":"Clear"},
   
 	"-5":{
-		"up arrow":"Clear"},
+		"Up":"Clear"},
   
 	"-4":{
-		"up arrow":"Space"},
+		"Up":"Space"},
   
 	"-3":{
-		"up arrow":"Delete"},
+		"Up":"Delete"},
   
 	"-2":{
-		"up arrow":"Confirm"},
+		"Up":"Confirm"},
   
 	"-1":{
-		"up arrow":"Confirm"}
+		"Up":"Confirm"}
 }
