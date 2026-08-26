@@ -64,7 +64,8 @@
   
   "FRISK":{
     "Quote":"...",
-    "Name Color":"#ffff00"},
+    "Name Color":"#ffff00",
+    "Type":true},
   
   "CHARA":{
     "Quote":"VOCÊ NÃO TEM ESSE CONTROLE",
