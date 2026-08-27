@@ -13,7 +13,7 @@
   
   "IdleRight":{
     "Sprites":1,
-    "Intervals":-1}
+    "Intervals":-1},
   
   "WalkUp":{
     "Sprites":4,
