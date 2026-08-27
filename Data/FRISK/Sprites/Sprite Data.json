@@ -1,1 +1,6 @@
-
+{
+  "WalkUp":4,
+  "WalkDown":4,
+  "WalkLeft":2,
+  "WalkRight":2
+}
