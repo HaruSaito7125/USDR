@@ -3,10 +3,10 @@
 	
 	"X":200,
 	"Y":0,
+
+	"Start Animation":"IdleDown1",
 	
 	"Revealed Rooms":[
 		"Ruins-001"
-	],
-
-	"Start Animation":"IdleDown1"
+	]
 }
