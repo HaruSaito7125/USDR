@@ -1,4 +1,20 @@
 {
+  "IdleUp":{
+    "Sprites":1,
+    "Intervals":-1},
+  
+  "IdleDown":{
+    "Sprites":1,
+    "Intervals":-1},
+    
+  "IdleLeft":{
+    "Sprites":1,
+    "Intervals":-1},
+  
+  "IdleRight":{
+    "Sprites":1,
+    "Intervals":-1}
+  
   "WalkUp":{
     "Sprites":4,
     "Intervals":0.15},
