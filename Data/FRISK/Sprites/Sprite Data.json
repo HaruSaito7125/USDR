@@ -1,6 +1,17 @@
 {
-  "WalkUp":4,
-  "WalkDown":4,
-  "WalkLeft":2,
-  "WalkRight":2
+  "WalkUp":{
+    "Sprites":4,
+    "Intervals":0.15},
+  
+  "WalkDown":{
+    "Sprites":4,
+    "Intervals":0.15},
+    
+  "WalkLeft":{
+    "Sprites":2,
+    "Intervals":0.15},
+  
+  "WalkRight":{
+    "Sprites":2,
+    "Intervals":0.15}
 }
