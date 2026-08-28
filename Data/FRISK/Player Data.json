@@ -1,8 +1,8 @@
 {
 	"Room":"Ruins-001",
 	
-	"X":200,
-	"Y":0,
+	"X":-190,
+	"Y":5,
 
 	"Start Animation":"IdleDown1",
 	
