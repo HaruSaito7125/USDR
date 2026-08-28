@@ -625,5 +625,9 @@
     "Sound":"Rafael"},
 
   "PASTEL":{
-    "Quote":"Neguinho"}
+    "Quote":"Neguinho"},
+
+  "YOSHI":{
+    "Quote":"Se mata",
+    "Type":true}
 }
