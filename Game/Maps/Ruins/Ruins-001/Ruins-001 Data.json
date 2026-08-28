@@ -3,14 +3,14 @@
 	"Y":0,
   
 	"Doors":[{
-			"Entrance":{
-				"X1":10,
-				"X2":30,
-				"Y1":0,
-				"Y2":10},
-			"Leave At":{
-				"X":350,
-				"Y":200,
-				"Room":"Ruins-002"},
-			"Can Touch?":true}]
+		"Entrance":{
+			"X1":10,
+			"X2":30,
+			"Y1":0,
+			"Y2":10},
+		"Leave At":{
+			"X":350,
+			"Y":200,
+			"Room":"Ruins-002"},
+		"Can Touch?":true}]
 }
